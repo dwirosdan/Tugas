@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string-array name="latihan">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
